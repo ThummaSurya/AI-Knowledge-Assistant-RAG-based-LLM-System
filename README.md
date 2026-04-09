@@ -3,5 +3,6 @@ Built a Retrieval-Augmented Generation (RAG) system that indexes documents using
 <br><br>
 <b>Architecture:</b> Document ingestion → Embedding generation → Vector database storage → Semantic search → Context retrieval → LLM response generation. 
 <br><br>
+<b>requiremnets.txt</b>
 pip install --upgrade langchain-chroma langchain-google-genai langchain-huggingface langchain-experimental
 pip install --upgrade langchain-core langchain langchain-community langchain-text-splitters
